@@ -29,6 +29,7 @@ This report is from the Centre for Social Justice and Inclusion, and discusses t
 This artefact was of particular interest to me due to what the report implicates. It presents a dilemma that teachers are trying to structure assignments to be "AI resistant", however the report doesn't explore the impact of structuring assignments with this in mind. Can "AI resistance" in assessment be reasonably prioritised alongside other factors such as accessability, clarity and desired learning outcomes? What are the impacts of this change in priority?
 
 ## Artefact 3: Lesson Planning with Generative Artificial Intelligence
+https://link.springer.com/chapter/10.1007/978-981-95-4871-2_5#citeas
 
 ### Summary of the Artefact:
 This artefact is a study into the experiences of preservice teachers (PST) and their views on using AI for lesson planning in primary schools. The study focused on 20 indiviual PST's, all of which indicated their intent to use AI for lesson planning in the future (Park, Thomson & Cooper 2026 p. 83). 
