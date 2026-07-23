@@ -1,12 +1,12 @@
 # Week-2-e-portfolio-1---Artificial-Intelligence
-A collection of Artifacts and reflections on my understanding of Artificial Intelligence>
+A collection of Artefacts and reflections on my understanding of Artificial Intelligence>
 
-## Artifact 1: AI cognitive offloading and implications for education.
+## Artefact 1: AI cognitive offloading and implications for education.
 <img width="1394" height="658" alt="image" src="https://leonfurze.com/wp-content/uploads/2026/03/ai-cognitive-offloading-and-implications-for-education.pdf">
 
 ### Summary of the Artefact:
 
-This is report was conducted by the Network for Quality Digital Education on the emerging challenges of Artificial Intelligence (AI) usage within schools. This report discusses the the concepts of "Cognitive Offloading", which refers to the actions taken to reduce the cognitive demands of a task (J Lodge & L Loble, 2026, pp. 8). The report goes on to compare beneficial against detrimental cognitive offloading, and presents the argument that unstructured use of AI encourages detrimental offloading.
+This is report was conducted by the Network for Quality Digital Education on the emerging challenges of Artificial Intelligence (AI) usage within schools. This report discusses the the concepts of "Cognitive Offloading", which refers to the actions taken to reduce the cognitive demands of a task (J Lodge & L Loble, 2026, pp. 8). The report goes on to compare beneficial cognitive offloading against detrimental cognitive offloading, and presents the argument that unstructured use rends towards the latter.
 
 ### Justification of why I chose this Artefact:
 
@@ -36,7 +36,7 @@ This artefact is a study into the experiences of preservice teachers (PST) and t
 
 ### Justification of why I chose this Artefact:
 
-This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This seems in contrast to Artefact 2, which suggests that course content is being planned to prevent the misuse of AI. Are these 2 goals mutually exclusive?
+This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This seems in contrast to Artefact 2, which suggests that course content is being planned to prevent the misuse of AI. Are these 2 goals mutually exclusive? (Alternative:)  
 
 ## References
 Lodge J. M. and Loble L (2026). Artificial
