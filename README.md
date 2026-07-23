@@ -35,7 +35,7 @@ This artefact is a study into the experiences of preservice teachers (PST) and t
 
 ### Justification of why I chose this Artefact:
 
-This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This is in contrast to Artefact 2, which suggests that course content is being planned to prevent the misuse of AI. Are these 2 goals mutually exclusive?
+This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This seems in contrast to Artefact 2, which suggests that course content is being planned to prevent the misuse of AI. Are these 2 goals mutually exclusive?
 
 ## References
 Lodge J. M. and Loble L (2026). Artificial
