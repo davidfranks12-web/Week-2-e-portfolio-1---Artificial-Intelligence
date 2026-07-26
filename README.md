@@ -6,7 +6,7 @@ A collection of Artefacts and reflections on my understanding of Artificial Inte
 
 ### Summary of the Artefact:
 
-This is report was conducted by the Network for Quality Digital Education on the emerging challenges of Artificial Intelligence (AI) usage within schools. This report discusses the the concepts of "Cognitive Offloading", which refers to the actions taken to reduce the cognitive demands of a task (J Lodge & L Loble, 2026, pp. 8). The report goes on to compare beneficial cognitive offloading against detrimental cognitive offloading, and presents the argument that unstructured use rends towards the latter.
+This is report was conducted by the Network for Quality Digital Education on the emerging challenges of Artificial Intelligence (AI) usage within schools. This report discusses the the concepts of "Cognitive Offloading", which refers to the actions taken to reduce the cognitive demands of a task (J Lodge & L Loble, 2026, pp. 8). The report goes on to compare beneficial cognitive offloading against detrimental cognitive offloading, and presents the argument that unstructured use tends towards the latter.
 
 ### Justification of why I chose this Artefact:
 
@@ -32,18 +32,26 @@ This artefact was of particular interest to me due to what the report implicates
 <img width="1394" height="658" alt="image" src="https://link.springer.com/chapter/10.1007/978-981-95-4871-2_5#citeas">
 
 ### Summary of the Artefact:
+
 This artefact is a study into the experiences of preservice teachers (PST) and their views on using AI for lesson planning in primary schools. The study focused on 20 indiviual PST's, all of which indicated their intent to use AI for lesson planning in the future (Park, Thomson & Cooper 2026 p. 83). 
 
 ### Justification of why I chose this Artefact:
 
-This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This seems in contrast to Artefact 2, which suggests that course content is being planned to prevent the misuse of AI. Are these 2 goals mutually exclusive? (Alternative:)  
+This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This presents the question of whether it is possible to use AI to plan content that is AI resistant.
+
+## Artefact 4: Anthony Albanese Unveils World-First AI Office
+
+### Summary of the Artefact:
+A news report covering the Australian Prime Minister's announcement of a world first "National Office of AI", and promises of ground rules to future AI datacentres.
+
+### Why I chose this Artefact:
+This source was relevant due to the recent nature and content of the announcement. Describing an official office of AI as a world first is suprising, as I had assumed official standards were more commonplace. The proposed restictions to prospective AI projects in Australia were enouraging to see, though I remain sceptical on whether they are sufficient to address all of the concerns such projects raise.  
 
 ## References
-Lodge J. M. and Loble L (2026). Artificial
-intelligence, cognitive offloading and implications
-for education, University of Technology Sydney,
-doi:10.71741/4pyxmbnjaq.31302475.
+Lodge, JM & Loble, L 2026, Artificial intelligence, cognitive offloading and implications for education, University of Technology Sydney, viewed 23 July 2026 <doi:10.71741/4pyxmbnjaq.31302475>
 
 Wardhani, BDPK 2026, AI‑Resistant Assignments in Writing Class: Insights from Australian Higher Education Websites, English Education and Literature Journal (E‑Jou), vol. 6, no. 01, Universitas Ma’arif Nahdlatul Ulama Kebumen, viewed 23 July 2026, <https://jurnal.umnu.ac.id/index.php/e-jou/article/view/1934/910>.
 
-Park, H., Thomson, E., Cooper, G. (2026). Lesson Planning with Generative Artificial Intelligence: Insights from Preservice Teachers. In: Durak, G., Çankaya, S., Sharples, M. (eds) Generative AI in Education. Springer, Singapore. https://doi.org/10.1007/978-981-95-4871-2_5
+Park, H., Thomson, E., Cooper, G. (2026). Lesson Planning with Generative Artificial Intelligence: Insights from Preservice Teachers. In: Durak, G., Çankaya, S., Sharples, M. (eds) Generative AI in Education. Springer, Singapore. viewed 23 July 2026, <https://link.springer.com/chapter/10.1007/978-981-95-4871-2_5>
+
+10 News 2026, Anthony Albanese Unveils World First AI Office As Australia Plans Tough New Rules | 10 News+, online video, viewed 26 July 2026, <https://www.youtube.com/watch?v=mdzwTz4GgBQ>
