@@ -6,27 +6,27 @@ A collection of Artefacts and reflections on my understanding of Artificial Inte
 
 ### Summary of the Artefact:
 
-This is report was conducted by the Network for Quality Digital Education on the emerging challenges of Artificial Intelligence (AI) usage within schools. This report discusses the the concepts of "Cognitive Offloading", which refers to the actions taken to reduce the cognitive demands of a task (J Lodge & L Loble, 2026, pp. 8). The report goes on to compare beneficial cognitive offloading against detrimental cognitive offloading, and presents the argument that unstructured use tends towards the latter.
+This is report was conducted by the Network for Quality Digital Education on the emerging challenges of Artificial Intelligence (AI) usage within schools. This report discusses the concept of "Cognitive Offloading", which refers to the actions taken to reduce the cognitive demands of a task (Lodge & Loble 2026, p.8). The report goes on to compare beneficial cognitive offloading against detrimental cognitive offloading, and presents the argument that unstructured use tends towards the latter.
 
 ### Justification of why I chose this Artefact:
 
-This source stood out to me due to the relevance of the topic to my own university studies. The report discussed the different risks assosciated with "Cognitive Offloading". The usage of AI as a learning tool is beneficial when AI is used to reduce extraneous cognitive load without bypassing the intrinsic cognitive effort necessary to retain knowledge long term (J lodge & L Loble, 2026 pp 7.). This finding resonated with me as it highlights a responsibility of users to understand exactly how much academic workload can be safely reduced with AI before it affects long term information retention.
+This source stood out due to the relevance of the topic to my own studies. The report discussed the different risks associated with "Cognitive Offloading". The usage of AI as a learning tool is beneficial when AI is used to reduce extraneous cognitive load without bypassing the intrinsic cognitive effort necessary to retain knowledge long term (Lodge & Loble 2026, p.7). This finding resonated with me as it highlights a responsibility of users to understand exactly how much academic workload can be safely reduced with AI before it affects long term information retention.
 
 ## Artefact 2: Artificial Intelligence, cognitive offloading and implications for education.
 <img width="1394" height="658" alt="image" src="https://jurnal.umnu.ac.id/index.php/e-jou/article/view/1934/910">
 
 ### Summary of the Artefact:
 
-This report is from the Centre for Social Justice and Inclusion, and discusses the challenges that teachers can face in structuring assignments to be "AI resistant". The study shows that 5 major strategies are in use accross Australian Universities (Wardhani 2026 p. 47):
+This report is from the Centre for Social Justice and Inclusion, and discusses the challenges that teachers can face in structuring assignments to be "AI resistant". The study shows that 5 major strategies are in use across Australian Universities (Wardhani 2026 p.47):
 1. Redesigning tasks
 2. Controlling AI use
 3. Updating integrity policies
 4. Engaging in dialogue with students
-5. Innovative aproaches
+5. Innovative approaches
 
 ### Justification of why I chose this Artefact:
 
-This artefact was of particular interest to me due to what the report implicates. It presents a dilemma that teachers are trying to structure assignments to be "AI resistant", however the report doesn't explore the impact of structuring assignments with this in mind. Can "AI resistance" in assessment be reasonably prioritised alongside other factors such as accessability, clarity and desired learning outcomes? What are the impacts of this change in priority?
+This artefact was of particular interest due to the implications of the findings. The report shows that teachers are trying to structure assignments to be "AI resistant", however it doesn't explore the impacts of structuring assignments with this in mind. Can "AI resistance" in assessment be reasonably prioritised alongside desired learning outcomes? What are the impacts of this change in priority?
 
 ## Artefact 3: Lesson Planning with Generative Artificial Intelligence
 <img width="1394" height="658" alt="image" src="https://link.springer.com/chapter/10.1007/978-981-95-4871-2_5#citeas">
@@ -37,7 +37,7 @@ This artefact is a study into the experiences of preservice teachers (PST) and t
 
 ### Justification of why I chose this Artefact:
 
-This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This presents the question of whether it is possible to use AI to plan content that is AI resistant.
+This artefact was interesting due to highlighting a possible difference in priorites between the expectations of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This presents the question of whether it is possible to use AI to plan content that is AI resistant.
 
 ## Artefact 4: Anthony Albanese Unveils World-First AI Office
 <img width="1394" height="658" alt="image" src="https://www.youtube.com/watch?v=mdzwTz4GgBQ">
