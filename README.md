@@ -2,7 +2,7 @@
 A collection of Artefacts and reflections on my understanding of Artificial Intelligence
 
 ## Artefact 1: AI cognitive offloading and implications for education.
-[![Screenshot](images/Screenshot%20(108).png)](images/Screenshot%20(108).png)
+![Screenshot](Screenshot%20(108).png)
 
 ### Summary of the Artefact:
 
