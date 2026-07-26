@@ -1,5 +1,5 @@
 # Week-2-e-portfolio-1---Artificial-Intelligence
-A collection of Artefacts and reflections on my understanding of Artificial Intelligence>
+A collection of Artefacts and reflections on my understanding of Artificial Intelligence
 
 ## Artefact 1: AI cognitive offloading and implications for education.
 <img width="1394" height="658" alt="image" src="https://leonfurze.com/wp-content/uploads/2026/03/ai-cognitive-offloading-and-implications-for-education.pdf">
