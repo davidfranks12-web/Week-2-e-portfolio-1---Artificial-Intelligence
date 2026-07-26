@@ -33,7 +33,7 @@ This artefact was of particular interest due to the implications of the findings
 
 ### Summary of the Artefact:
 
-This artefact is a study into the experiences of preservice teachers (PST) and their views on using AI for lesson planning in primary schools. The study focused on 20 indiviual PST's, all of which indicated their intent to use AI for lesson planning in the future (Park, Thomson & Cooper 2026 p. 83). 
+This artefact is a study into the experiences of Pre Service Teachers (PST) and their views on using AI for lesson planning in primary schools. The study focused on 20 indiviual PST's, all of which indicated their intent to use AI for lesson planning in the future (Park, Thomson & Cooper 2026 p. 83). 
 
 ### Justification of why I chose this Artefact:
 
