@@ -13,7 +13,7 @@ This is report was conducted by the Network for Quality Digital Education on the
 This source stood out due to the relevance of the topic to my own studies. The report discussed the different risks associated with "Cognitive Offloading". The usage of AI as a learning tool is beneficial when AI is used to reduce extraneous cognitive load without bypassing the intrinsic cognitive effort necessary to retain knowledge long term (Lodge & Loble 2026, p.7). This finding resonated with me as it highlights a responsibility of users to understand exactly how much academic workload can be safely reduced with AI before it affects long term information retention.
 
 ## Artefact 2: Artificial Intelligence, cognitive offloading and implications for education.
-<img width="1394" height="658" alt="image" src="screenshot (108).png">
+![Screenshot](Screenshot%20(109).png)
 
 ### Summary of the Artefact:
 
@@ -29,7 +29,7 @@ This report is from the Centre for Social Justice and Inclusion, and discusses t
 This artefact was of particular interest due to the implications of the findings. The report shows that teachers are trying to structure assignments to be "AI resistant", however it doesn't explore the impacts of structuring assignments with this in mind. Can "AI resistance" in assessment be reasonably prioritised alongside desired learning outcomes? What are the impacts of this change in priority?
 
 ## Artefact 3: Lesson Planning with Generative Artificial Intelligence
-<img width="1394" height="658" alt="image" src="https://link.springer.com/chapter/10.1007/978-981-95-4871-2_5#citeas">
+![Screenshot](Screenshot%20(110).png)
 
 ### Summary of the Artefact:
 
