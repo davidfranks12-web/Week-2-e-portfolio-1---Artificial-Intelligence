@@ -40,7 +40,7 @@ This artefact is a study into the experiences of preservice teachers (PST) and t
 This artefact was interesting due to highlighting a possible difference in priorites between the expectations of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This presents the question of whether it is possible to use AI to plan content that is AI resistant.
 
 ## Artefact 4: Anthony Albanese Unveils World-First AI Office
-<img width="1394" height="658" alt="image" src="https://www.youtube.com/watch?v=mdzwTz4GgBQ">
+[![Anthony Albanese Unveils World-First AI Office](https://img.youtube.com/vi/mdzwTz4GgBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=mdzwTz4GgBQ)
 
 ### Summary of the Artefact:
 A news report covering the Australian Prime Minister's announcement of a world first "National Office of AI", and promises of ground rules to future AI datacentres.
