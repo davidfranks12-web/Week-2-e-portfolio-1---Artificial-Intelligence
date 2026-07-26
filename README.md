@@ -40,6 +40,7 @@ This artefact is a study into the experiences of preservice teachers (PST) and t
 This artefact was interesting due to highlighting a possible difference in priorites between the expactions of current students, and those of upcoming teachers. This study indicates that PST's are planning on using AI to make lesson plans and indicates benefits such as efficiency, idea generation and enhanced lesson plan quality (Park, Thomson & Cooper 2026 p. 83). This presents the question of whether it is possible to use AI to plan content that is AI resistant.
 
 ## Artefact 4: Anthony Albanese Unveils World-First AI Office
+<img width="1394" height="658" alt="image" src="https://www.youtube.com/watch?v=mdzwTz4GgBQ">
 
 ### Summary of the Artefact:
 A news report covering the Australian Prime Minister's announcement of a world first "National Office of AI", and promises of ground rules to future AI datacentres.
@@ -48,10 +49,11 @@ A news report covering the Australian Prime Minister's announcement of a world f
 This source was relevant due to the recent nature and content of the announcement. Describing an official office of AI as a world first is suprising, as I had assumed official standards were more commonplace. The proposed restictions to prospective AI projects in Australia were enouraging to see, though I remain sceptical on whether they are sufficient to address all of the concerns such projects raise.  
 
 ## References
-Lodge, JM & Loble, L 2026, Artificial intelligence, cognitive offloading and implications for education, University of Technology Sydney, viewed 23 July 2026 <doi:10.71741/4pyxmbnjaq.31302475>
+10 News 2026, Anthony Albanese Unveils World First AI Office As Australia Plans Tough New Rules | 10 News+, online video, viewed 26 July 2026, <https://www.youtube.com/watch?v=mdzwTz4GgBQ>
 
-Wardhani, BDPK 2026, AI‑Resistant Assignments in Writing Class: Insights from Australian Higher Education Websites, English Education and Literature Journal (E‑Jou), vol. 6, no. 01, Universitas Ma’arif Nahdlatul Ulama Kebumen, viewed 23 July 2026, <https://jurnal.umnu.ac.id/index.php/e-jou/article/view/1934/910>.
+Lodge, JM & Loble, L 2026, Artificial intelligence, cognitive offloading and implications for education, University of Technology Sydney, viewed 23 July 2026 <https://www.uts.edu.au/news/2026/03/experts-warn-unstructured-ai-use-in-schools-risks-cognitive-atrophy/contentassets/ai-cognitive-offloading-and-implications-for-education.pdf> 
 
 Park, H., Thomson, E., Cooper, G. (2026). Lesson Planning with Generative Artificial Intelligence: Insights from Preservice Teachers. In: Durak, G., Çankaya, S., Sharples, M. (eds) Generative AI in Education. Springer, Singapore. viewed 23 July 2026, <https://link.springer.com/chapter/10.1007/978-981-95-4871-2_5>
 
-10 News 2026, Anthony Albanese Unveils World First AI Office As Australia Plans Tough New Rules | 10 News+, online video, viewed 26 July 2026, <https://www.youtube.com/watch?v=mdzwTz4GgBQ>
+Wardhani, BDPK 2026, AI‑Resistant Assignments in Writing Class: Insights from Australian Higher Education Websites, English Education and Literature Journal (E‑Jou), vol. 6, no. 01, Universitas Ma’arif Nahdlatul Ulama Kebumen, viewed 23 July 2026, <https://jurnal.umnu.ac.id/index.php/e-jou/article/view/1934/910>.
+
