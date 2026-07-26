@@ -45,7 +45,7 @@ This artefact was interesting due to highlighting a possible difference in prior
 ### Summary of the Artefact:
 A news report covering the Australian Prime Minister's announcement of a world first "National Office of AI", and promises of ground rules to future AI data centres.
 
-### Why I chose this Artefact:
+### Justification of Why I chose this Artefact:
 This source was relevant due to the recent nature and content of the announcement. Describing an official office of AI as a world first is surprising, as I had assumed official standards were more commonplace. The proposed restrictions to prospective AI projects in Australia were encouraging to see, though I remain sceptical on whether they are sufficient to address all of the concerns such projects raise.  
 
 ## References
